@@ -1,4 +1,4 @@
-# WISTEM Intro to coding workshop 2017
+# WISTEM Intro To Coding Workshop 2017
 An into to coding workshop run by UWaterloo's Women in STEM
 
 Come learn the basics of web development and get to make your own personal website in the process!
