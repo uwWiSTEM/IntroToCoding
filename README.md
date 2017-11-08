@@ -20,4 +20,3 @@ We are starting from absolute scratch **(No Experiance necessary)**
 - Check out some courses on [udemy](https://www.udemy.com/the-web-developer-bootcamp/)
 
 ### [Don't forget to check us out on Facebook!](https://www.facebook.com/UWWiSTEM/)
->>>>>>> 1b8144a... initial
