@@ -18,5 +18,6 @@ We are starting from absolute scratch **(No Experiance necessary)**
 ### If you want to learn even more:
 - Check out ReactJS and Bootstrap. Its a really great way to get deeper into web development
 - Check out some courses on [udemy](https://www.udemy.com/the-web-developer-bootcamp/)
+- [Codepen](https://codepen.io/) has a lot of people's creations along with the code they used to do it. It's a great way to learn neat things you can do with css, html and JavaScript 
 
 ### [Don't forget to check us out on Facebook!](https://www.facebook.com/UWWiSTEM/)

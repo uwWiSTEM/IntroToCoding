@@ -21,5 +21,10 @@ ul li {
   width: 50%;
 }
 
+img {
+  border-radius: 50%;
+  width: 300px;
+}
+
 /* a list of different properties
 https://www.w3schools.com/cssref/ */
