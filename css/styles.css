@@ -1,0 +1,48 @@
+.bio, .portfolio {
+    padding: 5% 0;
+    width: 100% !important;
+    overflow: auto;
+}
+
+#profile-image {
+    height: 100% !important;
+    width: auto;
+    padding: 0 5% 0 0;
+    float: left;
+}
+
+footer {
+    margin: 0 5%;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+}
+
+.btn {
+    flex: 0 1 auto;
+    color: grey;
+}
+
+.portfolio-item-image {
+    max-width: 100%;
+    flex: 0 1 auto;
+}
+
+.portfolio-item {
+    flex: 0 1 auto;
+    padding: 0 2%;
+    text-align: center;
+    color: grey;
+}
+
+.portfolio-row {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0 0 5% 0;
+}
+
+body {
+    margin: 5%;
+}
