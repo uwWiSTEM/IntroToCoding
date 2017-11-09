@@ -1,0 +1,30 @@
+h1 {
+  background-color: red;
+  color: white;
+  font-family: Helvetica;
+}
+
+ul {
+  color: blue
+}
+
+ul li {
+  color: red;
+}
+
+.styled {
+  color: white;
+  background-color: black;
+  font-family: Helvetica, Arial;
+  text-transform: uppercase;
+  font-size: 40px;
+  width: 50%;
+}
+
+img {
+  border-radius: 50%;
+  width: 300px;
+}
+
+/* a list of different properties
+https://www.w3schools.com/cssref/ */
