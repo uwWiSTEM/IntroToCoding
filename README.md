@@ -2,7 +2,7 @@
 An intro to coding workshop run by UWaterloo's Women in STEM
 
 Come learn the basics of web development and get to make your own personal website in the process!
-We are starting from absolute scratch **(No Experience necessary)**
+We are starting from absolute scratch **(no experience necessary)**
 
 ## What we are covering
 0. Overview of HTML and CSS
