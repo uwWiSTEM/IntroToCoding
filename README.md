@@ -15,6 +15,8 @@ We are starting from absolute scratch **(no experience necessary)**
 - [Learn HTML on CodeCademy](https://www.codecademy.com/learn/learn-html)
 - [Learn CSS on CodeCademy](https://www.codecademy.com/learn/learn-css)
 - [Learn Flexbox using this cheatsheet](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Learn more about doctype declarations](https://developer.mozilla.org/en-US/docs/Quirks_Mode_and_Standards_Mode)
+- [Check the validity of your HTML](https://validator.w3.org/#validate_by_input)
 
 ### If you want to learn even more:
 - Check out ReactJS and Bootstrap. Its a really great way to get deeper into web development
