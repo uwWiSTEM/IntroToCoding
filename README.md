@@ -1,14 +1,15 @@
 # WISTEM Intro To Coding Workshop 2017
-An into to coding workshop run by UWaterloo's Women in STEM
+An intro to coding workshop run by UWaterloo's Women in STEM
 
 Come learn the basics of web development and get to make your own personal website in the process!
-We are starting from absolute scratch **(No Experiance necessary)**
+We are starting from absolute scratch **(No Experience necessary)**
 
 ## What we are covering
-0. Basics of what a webpage looks like
+0. Overview of HTML and CSS
 1. What an element is
 2. How to make your elements look pretty with CSS
 3. Hosting your website using github pages
+4. Flexbox
 
 ### If you liked this workshop and want to learn more:
 - [Learn HTML on CodeCademy](https://www.codecademy.com/learn/learn-html)
