@@ -14,6 +14,7 @@ We are starting from absolute scratch **(no experience necessary)**
 ## To use this template
 - In any of the folders, simply drag the index.html file into your browser(ex. google chrome) and it will just work
 - Anytime you make changes to the code, simply reload your browser window and your changes will show up
+- Anywhere it says "uncomment me" delete the surrounding `/*` and `*/` and see what happens
 
 ## Tools we recommend
 - [vscode](https://code.visualstudio.com/) or [notepad++](https://notepad-plus-plus.org/)

@@ -1,12 +1,39 @@
-.bio, .portfolio {
-    padding: 5% 0;
+.bio {
+    margin: 5% 0;
     width: 100% !important;
     overflow: auto;
     justify-content: space-between;
+
+    /* Uncomment me  */
+    /* background-color: #b19dd8;
+    color: white;
+    box-shadow: 0 3px 5px #2c2541;
+    border-radius: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif */
+    /* Uncomment me  */
+}
+
+.portfolio {
+    margin: 5% 0;
+    width: 100% !important;
+    overflow: auto;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+    /* Uncomment me  */
+    /* background-color: #b19dd8;
+    color: white;
+    box-shadow: 0 3px 5px #2c2541;
+    border-radius: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif */
+    /* Uncomment me  */
 }
 
 #profile-image {
-    padding: 0 5% 5% 0;
+    padding: 0 5% 0 0;
+    height: 100%;
     float: left;
     flex: 0 1 auto;
 }
@@ -21,6 +48,16 @@ footer {
 .btn {
     flex: 0 1 auto;
     color: grey;
+}
+
+h4 {
+    /* Uncomment me  */
+    /* color: #f9f8f9; */
+    /* Uncomment me  */
+}
+
+h2 {
+    padding: 3%;
 }
 
 .portfolio-item-image {
@@ -45,6 +82,10 @@ footer {
 
 body {
     margin: 5%;
+
+    /* Uncomment me  */
+    /* background-color: #f9f8f9; */
+    /* Uncomment me  */
 }
 
 header {
@@ -52,6 +93,13 @@ header {
     flex-wrap: nowrap;
     align-items: center;
     width: 100%;
-    padding: 0 0 5% 0;
     flex-direction: column;
+
+    /* Uncomment me  */
+    /* background-color: #6441a4;
+    color: white;
+    box-shadow: 0 3px 5px #2c2541;
+    border-radius: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif */
+    /* Uncomment me  */
 }
