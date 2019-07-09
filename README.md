@@ -1,5 +1,5 @@
-# WISTEM Intro To Coding Workshop 2017
-An intro to coding workshop run by UWaterloo's Women in STEM
+# Twitch Intern Intro To Coding Workshop 2019
+An intro to coding workshop run by Twitch's Intern class of Summer 2019
 
 Come learn the basics of web development and get to make your own personal website in the process!
 We are starting from absolute scratch **(no experience necessary)**
@@ -22,5 +22,3 @@ We are starting from absolute scratch **(no experience necessary)**
 - Check out ReactJS and Bootstrap. Its a really great way to get deeper into web development
 - Check out some courses on [udemy](https://www.udemy.com/the-web-developer-bootcamp/)
 - [Codepen](https://codepen.io/) has a lot of people's creations along with the code they used to do it. It's a great way to learn neat things you can do with css, html and JavaScript 
-
-### [Don't forget to check us out on Facebook!](https://www.facebook.com/UWWiSTEM/)
