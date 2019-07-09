@@ -11,6 +11,13 @@ We are starting from absolute scratch **(no experience necessary)**
 3. Hosting your website using github pages
 4. Flexbox
 
+## To use this template
+- In any of the folders, simply drag the index.html file into your browser(ex. google chrome) and it will just work
+- Anytime you make changes to the code, simply reload your browser window and your changes will show up
+
+## Tools we recommend
+- [vscode](https://code.visualstudio.com/) or [notepad++](https://notepad-plus-plus.org/)
+
 ### If you liked this workshop and want to learn more:
 - [Learn HTML on CodeCademy](https://www.codecademy.com/learn/learn-html)
 - [Learn CSS on CodeCademy](https://www.codecademy.com/learn/learn-css)
