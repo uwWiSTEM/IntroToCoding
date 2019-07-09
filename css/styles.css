@@ -2,13 +2,13 @@
     padding: 5% 0;
     width: 100% !important;
     overflow: auto;
+    justify-content: space-between;
 }
 
 #profile-image {
-    height: 100% !important;
-    width: auto;
-    padding: 0 5% 0 0;
+    padding: 0 5% 5% 0;
     float: left;
+    flex: 0 1 auto;
 }
 
 footer {
@@ -45,4 +45,13 @@ footer {
 
 body {
     margin: 5%;
+}
+
+header {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    width: 100%;
+    padding: 0 0 5% 0;
+    flex-direction: column;
 }
